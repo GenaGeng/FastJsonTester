@@ -10,7 +10,11 @@ import java.util.List;
  */
 public abstract class CalculateMeasure {
 
-    /** get average*/
+    /**
+     * get average
+     * @param list
+     * @return average
+     */
     public double calculateAverage(List<Integer> list){
 
         int sum = 0;
@@ -28,7 +32,11 @@ public abstract class CalculateMeasure {
 
 
 
-    /** get variance*/
+    /**
+     * get variance
+     * @param list
+     * @return variance
+     */
     public double calculateVariance(List<Integer> list){
 
         double sum = 0;

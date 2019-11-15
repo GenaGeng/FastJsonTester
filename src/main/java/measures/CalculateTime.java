@@ -10,7 +10,11 @@ import java.util.List;
  */
 public abstract class CalculateTime {
 
-    /** get average*/
+    /**
+     * get average
+     * @param list
+     * @return average
+     */
     public double calculateAverage(List<Long> list){
 
         int sum = 0;
@@ -28,7 +32,11 @@ public abstract class CalculateTime {
 
 
 
-    /** get variance*/
+    /**
+     * get variance
+     * @param list
+     * @return variance
+     */
     public double calculateVariance(List<Long> list){
 
         double average = calculateAverage(list);

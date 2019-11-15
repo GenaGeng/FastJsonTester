@@ -7,7 +7,11 @@ package measures;
  */
 public class MetricFactory {
 
-    /** calculate measure method*/
+        /**
+     * calculate measure method
+     * @param method
+     * @return
+     */
     public CalculateMeasure chooseCalculateMeasureMethod(String method){
 
         if (method.equalsIgnoreCase("FMeasure")){
@@ -24,7 +28,11 @@ public class MetricFactory {
 
 
 
-    /** calculate time method*/
+        /**
+     * calculate time method
+     * @param method
+     * @return
+     */
     public CalculateTime chooseCalculateTimeMethod(String method){
 
         if (method.equalsIgnoreCase("FTime")){
