@@ -1,11 +1,11 @@
-package measures;
+package metrics;
 
 /**
  * @author GN
  * @description The factory class of metric, return the corresponding object according to metric's name
  * @date 2019/11/13
  */
-public class MetricFactory {
+public class MetricsFactory {
 
         /**
      * calculate measure method

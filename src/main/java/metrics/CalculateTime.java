@@ -1,4 +1,4 @@
-package measures;
+package metrics;
 
 import java.text.DecimalFormat;
 import java.util.List;
