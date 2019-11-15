@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.List;
 
 /**
- * @author GengNing
+ * @author GN
  * @description Template method:calculate average and variance
  * @date 2019/11/13
  */

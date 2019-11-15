@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author GengNing
+ * @author GN
  * @description Record the values of the F-measure
  * @date 2019/11/13
  */

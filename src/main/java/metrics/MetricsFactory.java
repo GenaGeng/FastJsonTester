@@ -7,7 +7,7 @@ package metrics;
  */
 public class MetricsFactory {
 
-        /**
+    /**
      * calculate measure method
      * @param method
      * @return
@@ -28,7 +28,7 @@ public class MetricsFactory {
 
 
 
-        /**
+    /**
      * calculate time method
      * @param method
      * @return
